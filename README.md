@@ -2,7 +2,7 @@ Connect4
 =================
 
 Connect4 Game using Pixi.js and ES6.
-<br/> Pixi.js project base was cloned from [Nazariglez](https://github.com/Nazariglez/es6-pixi-bolierplate.git)repository.
+<br/> Pixi.js project base was cloned from [Nazariglez](https://github.com/Nazariglez/es6-pixi-bolierplate.git) repository.
 
 
 ## Usage
@@ -20,6 +20,7 @@ git clone https://github.com/EricaTav/Connect4.git
 And install it:
 
 ```js
+cd Connect4
 npm install
 ```
 
